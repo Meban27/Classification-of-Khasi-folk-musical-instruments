@@ -3,4 +3,4 @@ numpy>=1.22.0  # Compatible with Python 3.11
 librosa>=0.10.1  # Compatible with numpy >=1.22.0
 joblib==1.2.0
 pandas==2.0.1
-scikit-learn==1.2.0  # Match the training version
+
