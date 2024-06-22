@@ -1,5 +1,6 @@
-joblib==1.4.2
-librosa==0.10.1
-numpy==1.21.6
-pandas==2.2.2
-streamlit==1.34.0
+streamlit==1.15.0
+numpy>=1.22.0  # Compatible with Python 3.11
+librosa>=0.10.1  # Compatible with numpy >=1.22.0
+joblib==1.2.0
+pandas==2.0.1
+scikit-learn==1.2.0  # Match the training version
